@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a subtle bug related to calculating the average of a list of numbers. The original code lacks robust error handling for edge cases such as empty lists and lists containing non-numeric values.  The solution demonstrates how to enhance the code for better reliability and prevent unexpected behavior.
